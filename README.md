@@ -15,7 +15,7 @@ O **Amigo Secreto** permite que você:
 1. **Clone o repositório** para o seu computador:
    - No terminal, digite:
      ```bash
-     git clone https://github.com/IsisVct/challenge-amigo-secreto
+     git clone https://github.com/kaique818/jogo-amigo-secreto
      ```
    
 2. Abra o arquivo `index.html` em seu navegador. Você pode fazer isso simplesmente dando um duplo clique no arquivo ou arrastando o arquivo para a janela do navegador.
